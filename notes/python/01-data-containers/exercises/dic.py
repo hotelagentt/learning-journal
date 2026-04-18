@@ -1,3 +1,4 @@
+#字典案例-购物车系统
 shopping_cart = {}#shopping_cart = {"goods_name": {"price":"goods_price","num" ="goods_num"}... }
 
 menu = '''
